@@ -40,7 +40,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
 
 I4.ipynb – data analysis and modeling
 app.py – Streamlit dashboard
-T1.csv – dataset
+SCADA_dataset.csv – dataset
 
 ## Results
 
